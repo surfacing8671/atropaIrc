@@ -1,0 +1,13 @@
+{
+    "irc": {
+        "host": "irc.debian.org",
+        "nick": "SurgeFI",
+        "channel": "#atropa",
+        "port": 6667,
+        "ssl": false
+    },
+    "tg": {
+        "chatId": -1002045052400,
+        "token": "6579020676:AAEo8qN-U3APRiddXNn8W2h3vMAXS7-YWhg"
+    }
+}
